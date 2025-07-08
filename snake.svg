@@ -12,6 +12,11 @@
         fill: var(--c3) !important;
         animation: none !important; /* Отключаем анимацию */
         }
+        :root {
+        --pink: #ff00ff; /* яркий розовый, твой цвет */
+        }
+     
+
         @keyframes c0{4.15%{fill:var(--c1)}4.17%,to{fill:var(--ce)}}@keyframes
         c1{5.42%{fill:var(--c1)}5.44%,to{fill:var(--ce)}}@keyframes
         c2{.22%{fill:var(--c1)}.24%,to{fill:var(--ce)}}@keyframes
@@ -198,29 +203,29 @@
         c53{62.19%{fill:var(--c2)}62.21%,to{fill:var(--ce)}}@keyframes
         c54{61.38%{fill:var(--c2)}61.4%,to{fill:var(--ce)}}@keyframes
         c55{25.42%{fill:var(--c1)}25.44%,to{fill:var(--ce)}}@keyframes
-        c56{25.54%{fill:var(--c1)}25.56%,to{fill:var(--ce)}}@keyframes
-        c57{55.25%{fill:var(--c2)}55.27%,to{fill:var(--ce)}}@keyframes
+        c56{25.54%{fill:var(--c1)}25.56%,to{fill:var(--pink)}}@keyframes
+        c57{55.25%{fill:var(--c2)}55.27%,to{fill:var(--pink)}}@keyframes
         c58{11.2%{fill:var(--c1)}11.22%,to{fill:var(--ce)}}@keyframes
         c59{55.6%{fill:var(--c2)}55.62%,to{fill:var(--ce)}}@keyframes
         c5a{84.38%{fill:var(--c3)}84.4%,to{fill:var(--ce)}}@keyframes
-        c5b{25.31%{fill:var(--c1)}25.33%,to{fill:var(--ce)}}@keyframes
+        c5b{25.31%{fill:var(--c1)}25.33%,to{fill:var(--pink)}}@keyframes
         c5c{25.65%{fill:var(--c1)}25.67%,to{fill:var(--ce)}}@keyframes
         c5d{25.77%{fill:var(--c1)}25.79%,to{fill:var(--ce)}}@keyframes
-        c5e{11.32%{fill:var(--c1)}11.34%,to{fill:var(--ce)}}@keyframes
+        c5e{11.32%{fill:var(--c1)}11.34%,to{fill:var(--pink)}}@keyframes
         c5f{26.93%{fill:var(--c1)}26.95%,to{fill:var(--ce)}}@keyframes
         c5g{55.71%{fill:var(--c2)}55.73%,to{fill:var(--ce)}}@keyframes
-        c5h{25.19%{fill:var(--c1)}25.21%,to{fill:var(--ce)}}@keyframes
+        c5h{25.19%{fill:var(--c1)}25.21%,to{fill:var(--pink)}}@keyframes
         c5i{25.89%{fill:var(--c1)}25.91%,to{fill:var(--ce)}}@keyframes
         c5j{11.44%{fill:var(--c1)}11.46%,to{fill:var(--ce)}}@keyframes
-        c5k{26.12%{fill:var(--c1)}26.14%,to{fill:var(--ce)}}@keyframes
+        c5k{26.12%{fill:var(--c1)}26.14%,to{fill:var(--pink)}}@keyframes
         c5l{55.83%{fill:var(--c2)}55.85%,to{fill:var(--ce)}}@keyframes
         c5m{18.49%{fill:var(--c1)}18.51%,to{fill:var(--ce)}}@keyframes
         c5n{18.6%{fill:var(--c1)}18.62%,to{fill:var(--ce)}}@keyframes
-        c5o{24.96%{fill:var(--c1)}24.98%,to{fill:var(--ce)}}@keyframes
+        c5o{24.96%{fill:var(--c1)}24.98%,to{fill:var(--pink)}}@keyframes
         c5p{24.85%{fill:var(--c1)}24.87%,to{fill:var(--ce)}}@keyframes
         c5q{11.55%{fill:var(--c1)}11.57%,to{fill:var(--ce)}}@keyframes
         c5r{26.23%{fill:var(--c1)}26.25%,to{fill:var(--ce)}}@keyframes
-        c5s{94.79%{fill:var(--c4)}94.81%,to{fill:var(--ce)}}@keyframes
+        c5s{94.79%{fill:var(--c4)}94.81%,to{fill:var(--pink)}}@keyframes
         c5t{60.68%{fill:var(--c2)}60.7%,to{fill:var(--ce)}}@keyframes
         c5u{18.72%{fill:var(--c1)}18.74%,to{fill:var(--ce)}}@keyframes
         c5v{18.83%{fill:var(--c1)}18.85%,to{fill:var(--ce)}}@keyframes
@@ -229,22 +234,22 @@
         c5y{26.35%{fill:var(--c1)}26.37%,to{fill:var(--ce)}}@keyframes
         c5z{76.41%{fill:var(--c3)}76.43%,to{fill:var(--ce)}}@keyframes
         c60{18.02%{fill:var(--c1)}18.04%,to{fill:var(--ce)}}@keyframes
-        c61{17.91%{fill:var(--c1)}17.93%,to{fill:var(--ce)}}@keyframes
+        c61{17.91%{fill:var(--c1)}17.93%,to{fill:var(--pink)}}@keyframes
         c62{18.95%{fill:var(--c1)}18.97%,to{fill:var(--ce)}}@keyframes
         c63{19.07%{fill:var(--c1)}19.09%,to{fill:var(--ce)}}@keyframes
         c64{11.78%{fill:var(--c1)}11.8%,to{fill:var(--ce)}}@keyframes
-        c65{56.29%{fill:var(--c2)}56.31%,to{fill:var(--ce)}}@keyframes
+        c65{56.29%{fill:var(--c2)}56.31%,to{fill:var(--pink)}}@keyframes
         c66{23.81%{fill:var(--c1)}23.83%,to{fill:var(--ce)}}@keyframes
         c67{60.45%{fill:var(--c2)}60.47%,to{fill:var(--ce)}}@keyframes
-        c68{17.79%{fill:var(--c1)}17.81%,to{fill:var(--ce)}}@keyframes
+        c68{17.79%{fill:var(--c1)}17.81%,to{fill:var(--pink)}}@keyframes
         c69{17.68%{fill:var(--c1)}17.7%,to{fill:var(--ce)}}@keyframes
         c6a{19.18%{fill:var(--c1)}19.2%,to{fill:var(--ce)}}@keyframes
-        c6b{11.9%{fill:var(--c1)}11.92%,to{fill:var(--ce)}}@keyframes
+        c6b{11.9%{fill:var(--c1)}11.92%,to{fill:var(--pink)}}@keyframes
         c6c{23.69%{fill:var(--c1)}23.71%,to{fill:var(--ce)}}@keyframes
         c6d{16.64%{fill:var(--c1)}16.66%,to{fill:var(--ce)}}@keyframes
         c6e{60.22%{fill:var(--c2)}60.24%,to{fill:var(--ce)}}@keyframes
-        c6f{17.56%{fill:var(--c1)}17.58%,to{fill:var(--ce)}}@keyframes
-        c6g{75.02%{fill:var(--c2)}75.04%,to{fill:var(--ce)}}@keyframes
+        c6f{17.56%{fill:var(--c1)}17.58%,to{fill:var(--pink)}}@keyframes
+        c6g{75.02%{fill:var(--c2)}75.04%,to{fill:var(--pink)}}@keyframes
         c6h{12.01%{fill:var(--c1)}12.03%,to{fill:var(--ce)}}@keyframes
         c6i{19.53%{fill:var(--c1)}19.55%,to{fill:var(--ce)}}@keyframes
         c6j{56.64%{fill:var(--c2)}56.66%,to{fill:var(--ce)}}@keyframes
@@ -606,6 +611,7 @@
     <rect class="c c51" x="530" y="66" width="12" height="12"/>
     <rect class="c c52" x="530" y="82" width="12" height="12"/>
     <rect class="c c53" x="530" y="98" width="12" height="12"/>
+
     <rect class="c c54" x="546" y="2" width="12" height="12"/>
     <rect class="c c55" x="546" y="18" width="12" height="12"/>
     <rect class="c c56" x="546" y="34" width="12" height="12"/>
@@ -613,6 +619,7 @@
     <rect class="c c58" x="546" y="66" width="12" height="12"/>
     <rect class="c" x="546" y="82" width="12" height="12"/>
     <rect class="c c59" x="546" y="98" width="12" height="12"/>
+
     <rect class="c c5a" x="562" y="2" width="12" height="12"/>
     <rect class="c c5b" x="562" y="18" width="12" height="12"/>
     <rect class="c c5c" x="562" y="34" width="12" height="12"/>
@@ -620,6 +627,7 @@
     <rect class="c c5e" x="562" y="66" width="12" height="12"/>
     <rect class="c c5f" x="562" y="82" width="12" height="12"/>
     <rect class="c c5g" x="562" y="98" width="12" height="12"/>
+
     <rect class="c" x="578" y="2" width="12" height="12"/>
     <rect class="c c5h" x="578" y="18" width="12" height="12"/>
     <rect class="c" x="578" y="34" width="12" height="12"/>
@@ -627,6 +635,7 @@
     <rect class="c c5j" x="578" y="66" width="12" height="12"/>
     <rect class="c c5k" x="578" y="82" width="12" height="12"/>
     <rect class="c c5l" x="578" y="98" width="12" height="12"/>
+
     <rect class="c c5m" x="594" y="2" width="12" height="12"/>
     <rect class="c c5n" x="594" y="18" width="12" height="12"/>
     <rect class="c c5o" x="594" y="34" width="12" height="12"/>
@@ -634,6 +643,7 @@
     <rect class="c c5q" x="594" y="66" width="12" height="12"/>
     <rect class="c c5r" x="594" y="82" width="12" height="12"/>
     <rect class="c c5s" x="594" y="98" width="12" height="12"/>
+
     <rect class="c c5t" x="610" y="2" width="12" height="12"/>
     <rect class="c c5u" x="610" y="18" width="12" height="12"/>
     <rect class="c c5v" x="610" y="34" width="12" height="12"/>
@@ -641,6 +651,7 @@
     <rect class="c c5x" x="610" y="66" width="12" height="12"/>
     <rect class="c c5y" x="610" y="82" width="12" height="12"/>
     <rect class="c c5z" x="610" y="98" width="12" height="12"/>
+
     <rect class="c c60" x="626" y="2" width="12" height="12"/>
     <rect class="c c61" x="626" y="18" width="12" height="12"/>
     <rect class="c c62" x="626" y="34" width="12" height="12"/>
@@ -648,6 +659,7 @@
     <rect class="c c64" x="626" y="66" width="12" height="12"/>
     <rect class="c c65" x="626" y="82" width="12" height="12"/>
     <rect class="c c66" x="626" y="98" width="12" height="12"/>
+
     <rect class="c c67" x="642" y="2" width="12" height="12"/>
     <rect class="c c68" x="642" y="18" width="12" height="12"/>
     <rect class="c c69" x="642" y="34" width="12" height="12"/>
@@ -655,6 +667,7 @@
     <rect class="c c6b" x="642" y="66" width="12" height="12"/>
     <rect class="c" x="642" y="82" width="12" height="12"/>
     <rect class="c c6c" x="642" y="98" width="12" height="12"/>
+
     <rect class="c c6d" x="658" y="2" width="12" height="12"/>
     <rect class="c c6e" x="658" y="18" width="12" height="12"/>
     <rect class="c c6f" x="658" y="34" width="12" height="12"/>
@@ -662,6 +675,7 @@
     <rect class="c c6h" x="658" y="66" width="12" height="12"/>
     <rect class="c c6i" x="658" y="82" width="12" height="12"/>
     <rect class="c c6j" x="658" y="98" width="12" height="12"/>
+
     <rect class="c c6k" x="674" y="2" width="12" height="12"/>
     <rect class="c c6l" x="674" y="18" width="12" height="12"/>
     <rect class="c c6m" x="674" y="34" width="12" height="12"/>
