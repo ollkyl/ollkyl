@@ -227,29 +227,29 @@
         c5r{26.23%{fill:var(--c1)}26.25%,to{fill:var(--ce)}}@keyframes
         c5s{94.79%{fill:var(--c4)}94.81%,to{fill:var(--pink)}}@keyframes
         c5t{60.68%{fill:var(--c2)}60.7%,to{fill:var(--ce)}}@keyframes
-        c5u{18.72%{fill:var(--c1)}18.74%,to{fill:var(--ce)}}@keyframes
+        c5u{18.72%{fill:var(--c1)}18.74%,to{fill:var(--pink)}}@keyframes
         c5v{18.83%{fill:var(--c1)}18.85%,to{fill:var(--ce)}}@keyframes
         c5w{24.73%{fill:var(--c1)}24.75%,to{fill:var(--ce)}}@keyframes
         c5x{11.67%{fill:var(--c1)}11.69%,to{fill:var(--ce)}}@keyframes
-        c5y{26.35%{fill:var(--c1)}26.37%,to{fill:var(--ce)}}@keyframes
+        c5y{26.35%{fill:var(--c1)}26.37%,to{fill:var(--pink)}}@keyframes
         c5z{76.41%{fill:var(--c3)}76.43%,to{fill:var(--ce)}}@keyframes
         c60{18.02%{fill:var(--c1)}18.04%,to{fill:var(--ce)}}@keyframes
         c61{17.91%{fill:var(--c1)}17.93%,to{fill:var(--pink)}}@keyframes
         c62{18.95%{fill:var(--c1)}18.97%,to{fill:var(--ce)}}@keyframes
         c63{19.07%{fill:var(--c1)}19.09%,to{fill:var(--ce)}}@keyframes
-        c64{11.78%{fill:var(--c1)}11.8%,to{fill:var(--ce)}}@keyframes
-        c65{56.29%{fill:var(--c2)}56.31%,to{fill:var(--pink)}}@keyframes
+        c64{11.78%{fill:var(--c1)}11.8%,to{fill:var(--pink)}}@keyframes
+        c65{56.29%{fill:var(--c2)}56.31%,to{fill:var(--ce)}}@keyframes
         c66{23.81%{fill:var(--c1)}23.83%,to{fill:var(--ce)}}@keyframes
         c67{60.45%{fill:var(--c2)}60.47%,to{fill:var(--ce)}}@keyframes
-        c68{17.79%{fill:var(--c1)}17.81%,to{fill:var(--pink)}}@keyframes
-        c69{17.68%{fill:var(--c1)}17.7%,to{fill:var(--ce)}}@keyframes
-        c6a{19.18%{fill:var(--c1)}19.2%,to{fill:var(--ce)}}@keyframes
-        c6b{11.9%{fill:var(--c1)}11.92%,to{fill:var(--pink)}}@keyframes
+        c68{17.79%{fill:var(--c1)}17.81%,to{fill:var(--ce)}}@keyframes
+        c69{17.68%{fill:var(--c1)}17.7%,to{fill:var(--pink)}}@keyframes
+        c6a{19.18%{fill:var(--c1)}19.2%,to{fill:var(--pink)}}@keyframes
+        c6b{11.9%{fill:var(--c1)}11.92%,to{fill:var(--ce)}}@keyframes
         c6c{23.69%{fill:var(--c1)}23.71%,to{fill:var(--ce)}}@keyframes
         c6d{16.64%{fill:var(--c1)}16.66%,to{fill:var(--ce)}}@keyframes
         c6e{60.22%{fill:var(--c2)}60.24%,to{fill:var(--ce)}}@keyframes
-        c6f{17.56%{fill:var(--c1)}17.58%,to{fill:var(--pink)}}@keyframes
-        c6g{75.02%{fill:var(--c2)}75.04%,to{fill:var(--pink)}}@keyframes
+        c6f{17.56%{fill:var(--c1)}17.58%,to{fill:var(--ce)}}@keyframes
+        c6g{75.02%{fill:var(--c2)}75.04%,to{fill:var(--ce)}}@keyframes
         c6h{12.01%{fill:var(--c1)}12.03%,to{fill:var(--ce)}}@keyframes
         c6i{19.53%{fill:var(--c1)}19.55%,to{fill:var(--ce)}}@keyframes
         c6j{56.64%{fill:var(--c2)}56.66%,to{fill:var(--ce)}}@keyframes
@@ -675,7 +675,6 @@
     <rect class="c c6h" x="658" y="66" width="12" height="12"/>
     <rect class="c c6i" x="658" y="82" width="12" height="12"/>
     <rect class="c c6j" x="658" y="98" width="12" height="12"/>
-
     <rect class="c c6k" x="674" y="2" width="12" height="12"/>
     <rect class="c c6l" x="674" y="18" width="12" height="12"/>
     <rect class="c c6m" x="674" y="34" width="12" height="12"/>
