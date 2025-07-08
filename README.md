@@ -12,7 +12,7 @@
 
 ---
 
-## ✎ᝰ. Contacts:
+## ✎ᝰ Contacts:
 [<img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="28">](mailto:uos1999@gmail.com)
 [<img src="https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=telegram&logoColor=white" alt="Telegram" height="28">](https://t.me/olkyl)
 
