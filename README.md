@@ -17,3 +17,5 @@
 [<img src="https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=telegram&logoColor=white" alt="Telegram" height="28">](https://t.me/olkyl)
 
 ---
+
+![Snake animation](snake.svg)
