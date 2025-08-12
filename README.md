@@ -18,6 +18,6 @@
 
 ---
 
-<img src="snake.svg" width="200" alt="Snake animation">
+<img src="snake.svg" width="400" alt="Snake animation">
 
 
