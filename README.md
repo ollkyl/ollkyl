@@ -18,4 +18,6 @@
 
 ---
 
-![Snake animation](snake.svg)
+<img src="snake.svg" width="200" alt="Snake animation">
+
+
