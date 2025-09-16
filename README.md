@@ -1,4 +1,5 @@
-<img width="1920" height="211" alt="image" src="https://github.com/user-attachments/assets/2c128622-5757-4b78-aac8-dc1c722ea890" />
+<img width="951" height="181" alt="image" src="https://github.com/user-attachments/assets/33c9018a-d634-4e24-9ac1-3d077fe5ec27" />
+
 
 ## 🛠 Languages and Tools 🛠
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
