@@ -1,3 +1,6 @@
+
+<img width="3840" height="317" alt="image" src="https://github.com/user-attachments/assets/c005c5c0-f47e-4d02-97b1-ea84cd6b11dc" />
+
 ## 🛠 Languages and Tools 🛠
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
